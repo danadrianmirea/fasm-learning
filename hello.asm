@@ -39,4 +39,4 @@ user_name       db 'USER32.DLL',0
 
 _ExitProcess    db 0,0,'ExitProcess',0
 _GetStdHandle   db 0,0,'GetStdHandle',0
-_WriteFile      db 0,0,'WriteFile',0    
+_WriteFile      db 0,0,'WriteFile',0
